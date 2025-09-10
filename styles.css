@@ -255,8 +255,8 @@
 .relative-box {
   /* TODO: Make the position relative; and give an offset of 10px */
   position: relative;
-  top: 10px; 
-  left: 10px;
+  down: 10px; 
+  right: 10px;
   background: #eef2ff;
   border: 1px solid #c7d2fe;
   border-radius: 8px;
